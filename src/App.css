@@ -14,23 +14,47 @@
   color: green
 }
 
+.star_header_middle {
+  color: red;
+}
+
 .tree_top {
     color: green;
+}
+
+.tree_top_middle {
+  color: yellow;
 }
 
 .tree_middle {
   color: green;
 }
 
+.tree_middle_left {
+  color: indigo;
+}
+
+.tree_middle_right {
+  color: orange;
+}
+
 .tree_bottom {
   color: green;
+}
+
+.tree_bottom_left {
+  color: cornflowerblue;
+}
+
+.tree_bottom_right {
+  color: indianred;
 }
 
 .name_input {
   margin: 1rem;
   padding: 0.6rem 5rem;
   font-size: 1rem;
-  background-color: green;
+  background-color: darkgreen;
   color: white;
   text-align: center;
 }
