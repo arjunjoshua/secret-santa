@@ -9,7 +9,7 @@ function App() {
 
     const handleNameSubmit = () => {
         // Check if the input is empty
-        if (name.trim() === '') {
+        if (name.trim() === '' || name.match(/[^a-zA-Z]/) ) {
             alert("Don't QA test me. Enter your name.");
             return;
         }
