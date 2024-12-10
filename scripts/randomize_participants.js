@@ -4,10 +4,9 @@ import { writeFileSync } from 'fs';
 const families = [
     ["janet", "shashi", "naomi", "karan", "arjun",], // Family 1
     ["sujit", "shirin", "nikhita", "nitin", "cara"], // Family 2
-    ["dottie", "shailu", "naina", "ronak", "leon", "suman"], // Family 3
-    ["guddi", "shubha"], // Family 4
-    ["praveen", "surekha", "bhavik", "ankitha"], // Family 5
-    ["joshi", "muna", "noah", "leah"], // Family 6
+    ["dotty", "shailu", "naina", "ronak", "leon", "suman"], // Family 3
+    ["guddi", "shubha", "bavna"], // Family 4
+    ["joshi", "muna", "noah", "leah"], // Family 5;
 ];
 
 // Flatten families into a single list and track family membership
